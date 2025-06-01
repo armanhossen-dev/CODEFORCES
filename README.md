@@ -10,10 +10,10 @@ This repo contains my solutions to various problems on [Codeforces](https://code
 ---
 
 ## 🧠 Languages Used
-- C
-- C++
-- Java
-- Python
+- C (My coding roots. Where it all began✅)
+- C++ (My favorite! It's like C, but with superpowers (OOP magic and STL wizards)😎)
+- Java (Coming soon... like a blockbuster movie trailer. Stay tuned. ☕)
+- Python (Currently in the friend zone. 🐍)
 
 ---
 
