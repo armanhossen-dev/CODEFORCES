@@ -4,26 +4,24 @@ int main(){
     int size;
     cin >> size;
     
-    int a , b;
-    int cnt = 0;
+    long long a , b;
+    long long cnt = 0;
     
-    vector<int> arr(size);
+    vector<long long> arr(size);
 
-    for(int i = 0 ; i<size; i++){
+    for(long long i = 0 ; i<size; i++){
         cin >> a >> b;
         if(a%b == 0){
             arr[i] = 0;
         }else{
             cnt = 0;
-            // while(a%b != 0){ //dont't use terminal to drink, and nested loop makes the time limite accedes
-            cnt  = (b - (a%b))%b; 
-             
+            cnt  = (b - (a%b));              
             arr[i] = cnt;
         }
     }
-    for(int i : arr){
+    for(long long i : arr){
         cout << i << endl;
     }
-
     return 0;    
 }
+// https://codeforces.com/contest/1328/problem/A
