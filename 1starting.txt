@@ -40,6 +40,13 @@ https://codeforces.com/problemset/problem/148/A
 https://codeforces.com/problemset/problem/443/A
 https://codeforces.com/problemset/problem/580/A
 https://codeforces.com/problemset/problem/208/A
+https://codeforces.com/problemset/problem/112/A
+https://codeforces.com/problemset/problem/734/A
+https://codeforces.com/problemset/problem/96/A
+https://codeforces.com/problemset/problem/110/A
+https://codeforces.com/problemset/problem/122/A
+https://codeforces.com/problemset/problem/200/B
+https://codeforces.com/contest/2094/problem/C
 
 
 
