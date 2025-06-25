@@ -6,17 +6,14 @@ int main()
     int n;
     cin >> n;
     int num, b = 0;
-    for (int i = 1; i <= n; i++)
-    {
+    for (int i = 1; i <= n; i++){
         cin >> num;
         b += num;
     }
-    if (b == 0)
-    {
+    if (b == 0){
         cout << "EASY" << endl;
     }
-    else
-    {
+    else{
         cout << "HARD" << endl;
     }
     return 0;

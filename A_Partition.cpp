@@ -6,15 +6,13 @@ int main()
     int n;
     cin >> n;
     int num, b=0;
-    for (int i = 1; i <= n; i++)
-    {
+    for (int i = 1; i <= n; i++){
         cin >> num;
         if (num > 0)
         {
             b += num;
         }
-        else
-        {
+        else{
             b += num * (-1);
         }
     }
