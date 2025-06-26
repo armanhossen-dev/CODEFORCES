@@ -47,6 +47,27 @@ https://codeforces.com/problemset/problem/110/A
 https://codeforces.com/problemset/problem/122/A
 https://codeforces.com/problemset/problem/200/B
 https://codeforces.com/contest/2094/problem/C
+// https://codeforces.com/contest/266/problem/A
+// https://codeforces.com/contest/1864/problem/A
+// https://codeforces.com/contest/1873/problem/D
+// https://codeforces.com/contest/158/problem/A
+// https://codeforces.com/contest/236/problem/A
+// https://codeforces.com/contest/266/problem/A
+// https://codeforces.com/contest/339/problem/A
+// https://codeforces.com/contest/339/problem/A
+// https://codeforces.com/contest/2117/problem/A
+// https://codeforces.com/contest/2117/problem/B
+// https://codeforces.com/contest/2041/problem/A
+// https://codeforces.com/gym/105723/problem/I
+// https://codeforces.com/contest/1903/problem/A
+// https://codeforces.com/contest/110/problem/A
+// https://codeforces.com/contest/2094/problem/A
+// https://codeforces.com/contest/1869/problem/A
+// https://codeforces.com/contest/734/problem/A
+// https://codeforces.com/contest/1901/problem/A
+// https://codeforces.com/contest/1900/problem/A
+// https://codeforces.com/contest/1899/problem/A
+// https://codeforces.com/contest/118/problem/A
 
 
 
