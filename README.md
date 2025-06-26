@@ -6,7 +6,7 @@ This repo contains my solutions to various problems on [Codeforces](https://code
 
 ### 👨‍💻 Profile  
 🔗 [ArmanHossenRipon](https://codeforces.com/profile/ArmanHossenRipon)
-
+[![](https://raw.githubusercontent.com/armanhossen-dev/cf-stats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/ArmanHossenRipon)
 ---
 
 ## 🧠 Languages Used
