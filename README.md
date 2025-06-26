@@ -5,7 +5,8 @@ Welcome to my repository of Codeforces problem-solving codes!
 This repo contains my solutions to various problems on [Codeforces](https://codeforces.com/), solved using multiple programming languages.
 
 ### 👨‍💻 Profile  
-🔗 [ArmanHossenRipon](https://codeforces.com/profile/ArmanHossenRipon)
+🔗[ArmanHossenRipon](https://codeforces.com/profile/ArmanHossenRipon)
+---
 [![](https://raw.githubusercontent.com/armanhossen-dev/cf-stats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/ArmanHossenRipon)
 ---
 
