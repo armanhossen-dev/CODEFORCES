@@ -67,11 +67,11 @@ https://codeforces.com/contest/2094/problem/C
 // https://codeforces.com/contest/1901/problem/A
 // https://codeforces.com/contest/1900/problem/A
 // https://codeforces.com/contest/1899/problem/A
-
-
-
-
-
+https://codeforces.com/problemset/problem/2121/G
+https://codeforces.com/problemset/problem/2121/H
+https://codeforces.com/problemset/problem/2121/F
+https://codeforces.com/contest/271/problem/A
+https://codeforces.com/problemset/problem/2121/E
 
 
 
