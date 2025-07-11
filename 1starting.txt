@@ -73,10 +73,10 @@ https://codeforces.com/problemset/problem/2121/F
 https://codeforces.com/contest/271/problem/A
 https://codeforces.com/problemset/problem/2121/E
 
-
-
-
-
+https://codeforces.com/contest/344/problem/A
+https://codeforces.com/contest/33/problem/A
+https://codeforces.com/contest/758/problem/A
+https://codeforces.com/contest/1409/problem/A
 
 
 
