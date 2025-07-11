@@ -3,6 +3,7 @@
         "array": "cpp",
         "ratio": "cpp",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "A_A+B_Again.C": "cpp"
     }
 }
